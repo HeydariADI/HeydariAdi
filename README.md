@@ -1,13 +1,17 @@
-# Hello! I'm ADI 👋
+👋 Hi, I'm Ahdieh.
 
----
+I'm a Frontend Developer focused on building responsive and user-friendly web applications with **React**, **Next.js**, and **TypeScript**.
 
-🌟 Passionate about building **responsive** and **performant** web applications using **React** and **Next.js** (App Router, SSR, SSG, API Routes, Middleware)  
-🎨 Dedicated to creating **beautiful** and **user-friendly** interfaces with **Tailwind CSS**, **Material UI (MUI)**, and modern UI design principles  
-⚙️ Experienced in **state management** with **Redux Toolkit (RTK)** and **React Context API**  
-🚀 Always eager to learn new technologies and continuously improve code quality and performance  
-💻 Skilled in **JavaScript (ES6+)**, **HTML5**, and **CSS3**  
-🤝 Collaborative team player with strong communication skills and attention to detail  
+🎨 I enjoy working on clean and modern UIs using **Tailwind CSS** and **Material UI (MUI)**.
+
+⚙️ I have experience with **Redux Toolkit**, **React Context API**, and Next.js features such as **App Router, SSR, SSG, API Routes, and Middleware**.
+
+💻 My main skills include **TypeScript, JavaScript (ES6+), React, Next.js, HTML5, CSS3, Tailwind CSS, and MUI**.
+
+🌱 I'm currently improving my frontend skills by building real-world projects and learning more about performance, code quality, and modern web development.
+
+🤝 I enjoy working with others, solving problems, and turning ideas into practical web applications.
+
 
 ---
 
